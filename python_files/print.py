@@ -4,4 +4,5 @@ if c == 12:
     print("Obi is a boy")
 else:
     print("Ada is a girl")
-    
+
+print("Obi is a boy again")
